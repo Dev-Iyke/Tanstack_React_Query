@@ -7,7 +7,6 @@ export interface userResponseHttpData {
 }
 
 export interface createPostData {
-  userId: number;
   title: string;
   body: string;
 }
